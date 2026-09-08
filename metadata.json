@@ -1,0 +1,8 @@
+{
+  "name": "CampusCare",
+  "description": "Building safer and cleaner schools with AI complaint analysis, health tracking, hygiene learning, and school safety inspector dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
